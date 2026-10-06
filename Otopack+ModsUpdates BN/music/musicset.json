@@ -1,0 +1,32 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          { "file": "music/01 - Kavinsky & Lovefoxxx - Nightcall.ogg", "volume": 100 },
+          { "file": "music/02 - Desire - Under Your Spell.ogg", "volume": 100 },
+          { "file": "music/03 - College - A Real Hero (feat. Electric Youth).ogg", "volume": 100 },
+          { "file": "music/04 - Riz Ortolani - Oh My Love (feat. Katyna Ranieri).ogg", "volume": 100 },
+          { "file": "music/05 - The Chromatics - Tick of the Clock.ogg", "volume": 100 },
+          { "file": "music/06 - Cliff Martinez - Rubber Head.ogg", "volume": 100 },
+          { "file": "music/07 - Cliff Martinez - I Drive.ogg", "volume": 100 },
+          { "file": "music/08 - Cliff Martinez - He Had a Good Time.ogg", "volume": 100 },
+          { "file": "music/09 - Cliff Martinez - They Broke His Pelvis.ogg", "volume": 100 },
+          { "file": "music/10 - Cliff Martinez - Kick Your Teeth.ogg", "volume": 100 },
+          { "file": "music/11 - Cliff Martinez - Where's the Deluxe Version.ogg", "volume": 100 },
+          { "file": "music/12 - Cliff Martinez - See You in Four.ogg", "volume": 100 },
+          { "file": "music/13 - Cliff Martinez - After The Chase.ogg", "volume": 100 },
+          { "file": "music/14 - Cliff Martinez - Hammer.ogg", "volume": 100 },
+          { "file": "music/15 - Cliff Martinez - Wrong Floor.ogg", "volume": 100 },
+          { "file": "music/16 - Cliff Martinez - Skull Crushing.ogg", "volume": 100 },
+          { "file": "music/17 - Cliff Martinez - My Name On a Car.ogg", "volume": 100 },
+          { "file": "music/18 - Cliff Martinez - On the Beach.ogg", "volume": 100 },
+          { "file": "music/19 - Cliff Martinez - Bride of Deluxe.ogg", "volume": 100 },
+        ]
+      }
+    ]
+  }
+]
