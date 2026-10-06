@@ -1,2 +1,2 @@
-NAME: otopack bn
-VIEW: Otopack BN
+NAME: drivepack bn
+VIEW: Drivepack BN
